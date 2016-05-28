@@ -18,4 +18,4 @@
 
 - [ ] App notifies shelter that someone is on their way
 
-- [ ] User input form (TypeForm.com)
+- [ ] User input form [Typeform](TypeForm.com)
