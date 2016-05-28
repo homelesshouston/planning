@@ -4,9 +4,9 @@
 
 - [x] GitHub
 
-- [ ] Shelter Question List 
+- [ ] Shelter Question List _Research team_
 
-- [ ] Move map from easy map maker to leaflet
+- [ ] Move map from easy map maker to leaflet _Dev team_
 
 **Future Steps**
 
